@@ -13,7 +13,7 @@
 
     ```bash
     # Clone this repository or download
-    $ git clone https://github.com/fajaraldev/happybirthday
+    $ git clone https://github.com/nalarusydalkhakim/birthday
 
     # Go into the repository
     $ cd happybirthday
@@ -40,5 +40,5 @@ If you have any idea to make it more interesting, feel free to send a PR, or cre
 
 ### [MIT](LICENSE)
 
-> Github [@fajaraldev](https://github.com/fajaraldev) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar)
+<!-- > Github [@fajaraldev](https://github.com/fajaraldev) &nbsp;&middot;&nbsp;
+> Instagram [@fajarghifar](https://instagram.com/fajarghifar) -->
