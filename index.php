@@ -54,7 +54,7 @@
       </p>
       <p class="idea-4">Karena.....</p>
       <p class="idea-5">
-        aku juga gak tau sayang T_T,tiba-tiba jadi orang spesial aja kamu nih
+        aku juga gak tau sayang T_T,<br> tiba-tiba jadi orang spesial aja kamu nih
         <span>:)</span>
       </p>
       <p class="idea-6">
